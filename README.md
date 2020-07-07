@@ -1,2 +1,1 @@
-# visualizacao
-Minicurso de visualização de dados com Python
+# Minicurso de visualização de dados com Python
